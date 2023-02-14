@@ -83,6 +83,7 @@ class LoginScreen: UIViewController {
     }
     
     @IBAction func appleButtonPressed(_ sender: UIButton) {
+        // Button is not functional yet...
   }
     
 }
